@@ -1,1 +1,2 @@
-# verifica_finale_4
+# calcolatrice
+semplice calcolatrice che si può usare tramite console 
